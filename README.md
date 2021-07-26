@@ -12,6 +12,7 @@ Please send in your own mobjects and scenes as a pull request! Make sure to incl
 
 - A Python file with a runnable scene
 - A screenshot of the scene, or a video if necessary
+  - For reference, screenshots can be taken using the `-s` flag, such as `manim -pas -qh scenes.py`, which takes a screenshot of all (`-a`) scenes in the fle and also opens the image in your system image viewer (`-p`)
 
 ## Examples
 
